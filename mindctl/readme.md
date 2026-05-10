@@ -795,12 +795,6 @@ LLM_URL=https://api.mistral.ai/v1/chat/completions
 
 ---
 
-<div align="center">
 
-**Date limite de soumission : 14/05/2026 à 23:59:59**
-
----
-
-*ENSET Mohammedia © 2026 — Tous droits réservés*
 
 </div>
